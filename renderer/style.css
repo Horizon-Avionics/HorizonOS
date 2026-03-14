@@ -8,10 +8,9 @@ body {
     background-color: #333333;
     font-family: "Inter";
     font-weight: 100;
-}   
-h1 {
     color: #FFFFFF;
-}
+}   
+
 .graphbox1 {
   position: absolute;
   top: 695px;
@@ -41,7 +40,7 @@ h1 {
 }
 .graphbox4 {
   position: absolute;
-  top: 95px;
+  top: 25px;
   left:506px;
   width: 423px;
   height: 300px;
@@ -50,7 +49,7 @@ h1 {
 }
 .graphbox5 {
   position:absolute;
-  top: 95px;
+  top: 25px;
   left: 992px;
   width: 423px;
   height: 300px;
@@ -86,7 +85,7 @@ h1 {
 }
 .titleBox {
   position:absolute;
-  top: 20px;
+  top: 950px;
   left: 506px;
   width: 909px;
   height: 60px;
@@ -95,7 +94,7 @@ h1 {
 }
 .mainData {
   position:absolute;
-  top: 415px;
+  top: 345px;
   left: 992px;
   width: 423px;
   height: 585px;
@@ -104,7 +103,7 @@ h1 {
 }
 .subData {
   position: absolute;
-  top: 415px;
+  top: 345px;
   left: 506px;
   width: 423px;
   height: 150px;
@@ -113,7 +112,7 @@ h1 {
 }
 .subData2 {
   position: absolute;
-  top: 585px;
+  top: 515px;
   left: 506px;
   width: 423px;
   height: 150px;

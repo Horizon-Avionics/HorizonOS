@@ -4,7 +4,11 @@
 
 <html>
     <head>
+
+        <meta charset="UTF-8">
         <title>Horizon OS</title>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
     </head>
 
     <body>
@@ -17,7 +21,42 @@
         <div class="graphbox7"></div>
         <div class="graphbox8"></div>
         <div class="titleBox"></div>
+        <div style="position: absolute; left: 525px; top: 945px; font-size: 10;">
+           <h2>
+                Incoming Packet:
+           </h2> 
+        </div>
         <div class="mainData"></div>
+        <div style="position: absolute; left: 1025px; top: 350px; font-size: 20px">
+           <h1>
+                Altitude:
+           </h1> 
+        </div>
+        <div style="position: absolute; left: 1025px; top: 425px; font-size: 13px">
+           <h1>
+                Detected State: 
+           </h1> 
+        </div>
+        <div style="position: absolute; left: 1025px; top: 495px; font-size: 13px">
+           <h1>
+                Pyro Channels:
+           </h1> 
+        </div>
+        <div style="position: absolute; z-index: 40; left: 685px; top: 340px; font-size: 15px; color: #FFFFFF;">
+           <h1>
+                GPS
+           </h1> 
+        </div>
+        <div style="position: absolute; z-index: 40; left: 530px; top: 375px; font-size: 15px; color: #FFFFFF;">
+           <h1>
+                Latitude:
+           </h1> 
+        </div>
+        <div style="position: absolute; z-index: 40; left: 530px; top: 420px; font-size: 15px; color: #FFFFFF;">
+           <h1>
+                Longitude:
+           </h1> 
+        </div>
         <div class="subData"></div>
         <div class="subData2"></div>
         <script src="renderer.js"></script>
