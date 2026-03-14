@@ -17,23 +17,47 @@ function App() {
         <div className="graphbox7"></div>
         <div className="graphbox8"></div>
         <div className="titleBox"></div>
-        <div style={{position: "absolute", left: "525px", top: "945px", fontSize: 10}}>
+        <div 
+          style={{
+            position: "absolute", 
+            left: "525px", 
+            top: "945px", 
+            fontSize: 10
+          }}>
            <h2>
                 Incoming Packet:
            </h2> 
         </div>
         <div className="mainData"></div>
-        <div style={{position: "absolute", left: "1025px", top: "350px", fontSize: "20px"}}>
+        <div 
+          style={{
+            position: "absolute", 
+            left: "1025px", 
+            top: "350px", 
+            fontSize: "20px"
+          }}>
            <h1>
                 Altitude:
            </h1> 
         </div>
-        <div style={{position: "absolute", left: "1025px", top: "425px", fontSize: "13px"}}>
+        <div 
+          style={{
+            position: "absolute", 
+            left: "1025px", 
+            top: "425px", 
+            fontSize: "13px"
+          }}>
            <h1>
                 Detected State: 
            </h1> 
         </div>
-        <div style={{position: "absolute", left: "1025px", top: "495px", fontSize: "13px"}}>
+        <div 
+          style={{
+            position: "absolute", 
+            left: "1025px", 
+            top: "495px", 
+            fontSize: "13px"
+          }}>
            <h1>
                 Pyro Channels:
            </h1> 
