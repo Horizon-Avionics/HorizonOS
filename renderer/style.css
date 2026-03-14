@@ -1,0 +1,122 @@
+@font-face {
+    font-family: "Inter";
+    src: url("./fonts/ttf/Inter-Regular.ttf") format("truetype");
+    font-weight: 100 900;
+    font-style: normal;
+}
+body {
+    background-color: #333333;
+    font-family: "Inter";
+    font-weight: 100;
+}   
+h1 {
+    color: #FFFFFF;
+}
+.graphbox1 {
+  position: absolute;
+  top: 695px;
+  left:20px;
+  width: 423px;
+  height: 300px;
+  background-color: #272727;
+  border-radius: 20px;
+}
+.graphbox2 {
+  position: absolute;
+  top: 360px;
+  left:20px;
+  width: 423px;
+  height: 300px;
+  background-color: #272727;
+  border-radius: 20px;
+}
+.graphbox3 {
+  position: absolute;
+  top: 25px;
+  left: 20px;
+  width: 423px;
+  height: 300px;
+  background-color: #272727;
+  border-radius: 20px;
+}
+.graphbox4 {
+  position: absolute;
+  top: 95px;
+  left:506px;
+  width: 423px;
+  height: 300px;
+  background-color: #272727;
+  border-radius: 20px;
+}
+.graphbox5 {
+  position:absolute;
+  top: 95px;
+  left: 992px;
+  width: 423px;
+  height: 300px;
+  background-color: #272727;
+  border-radius: 20px;
+}
+.graphbox6 {
+  position:absolute;
+  top: 25px;
+  left: 1477px;
+  width: 423px;
+  height: 300px;
+  background-color: #272727;
+  border-radius: 20px;
+}
+.graphbox7 {
+  position:absolute;
+  top: 360px;
+  left: 1477px;
+  width: 423px;
+  height: 300px;
+  background-color: #272727;
+  border-radius: 20px;
+}
+.graphbox8 {
+  position:absolute;
+  top: 695px;
+  left: 1477px;
+  width: 423px;
+  height: 300px;
+  background-color: #272727;
+  border-radius: 20px;
+}
+.titleBox {
+  position:absolute;
+  top: 20px;
+  left: 506px;
+  width: 909px;
+  height: 60px;
+  background-color: #272727;
+  border-radius: 20px;
+}
+.mainData {
+  position:absolute;
+  top: 415px;
+  left: 992px;
+  width: 423px;
+  height: 585px;
+  background-color: #3F3F3F;
+  border-radius: 20px;
+}
+.subData {
+  position: absolute;
+  top: 415px;
+  left: 506px;
+  width: 423px;
+  height: 150px;
+  background-color: #3F3F3F;
+  border-radius: 20px;
+}
+.subData2 {
+  position: absolute;
+  top: 585px;
+  left: 506px;
+  width: 423px;
+  height: 150px;
+  background-color: #3F3F3F;
+  border-radius: 20px;
+}
