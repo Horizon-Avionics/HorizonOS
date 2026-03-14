@@ -30,7 +30,7 @@ function createChart(divClass, datasets) {
     });
 }
 
-const graph1 = createChart("graphbox1", [{ label: "Tempurature", color: "#FF3636" }]);
+const graph1 = createChart("graphbox1", [{ label: "Temperature", color: "#FF3636" }]);
 const graph2 = createChart("graphbox2", [{ label: "Bat. Voltage", color: "#29FD00" }]);
 const graph3 = createChart("graphbox3", [{ label: "Altitude", color: "#FF3636" }]);
 const graph4 = createChart("graphbox4", [
