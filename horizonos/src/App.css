@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "Inter";
+    src: url("./fonts/ttf/Inter-Regular.ttf") format("truetype");
+    font-weight: 100 900;
+    font-style: normal;
+}
 .logo.vite:hover {
   filter: drop-shadow(0 0 2em #747bff);
 }
@@ -70,6 +76,7 @@ h1 {
   height: 300px;
   background-color: #272727;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #222222;
 }
 .graphbox2 {
   position: absolute;
@@ -79,6 +86,7 @@ h1 {
   height: 300px;
   background-color: #272727;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #222222;
 }
 .graphbox3 {
   position: absolute;
@@ -88,6 +96,7 @@ h1 {
   height: 300px;
   background-color: #272727;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #222222;
 }
 .graphbox4 {
   position: absolute;
@@ -97,6 +106,7 @@ h1 {
   height: 300px;
   background-color: #272727;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #222222;
 }
 .graphbox5 {
   position:absolute;
@@ -106,6 +116,7 @@ h1 {
   height: 300px;
   background-color: #272727;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #222222;
 }
 .graphbox6 {
   position:absolute;
@@ -115,6 +126,7 @@ h1 {
   height: 300px;
   background-color: #272727;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #222222;
 }
 .graphbox7 {
   position:absolute;
@@ -124,6 +136,7 @@ h1 {
   height: 300px;
   background-color: #272727;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #222222;
 }
 .graphbox8 {
   position:absolute;
@@ -133,6 +146,7 @@ h1 {
   height: 300px;
   background-color: #272727;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #222222;
 }
 .titleBox {
   position:absolute;
@@ -142,6 +156,7 @@ h1 {
   height: 60px;
   background-color: #272727;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #222222;
 }
 .mainData {
   position:absolute;
@@ -151,6 +166,7 @@ h1 {
   height: 585px;
   background-color: #3F3F3F;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #2c2c2c;
 }
 .subData {
   position: absolute;
@@ -160,6 +176,7 @@ h1 {
   height: 150px;
   background-color: #3F3F3F;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #2c2c2c;
 }
 .subData2 {
   position: absolute;
@@ -169,5 +186,6 @@ h1 {
   height: 150px;
   background-color: #3F3F3F;
   border-radius: 20px;
+  box-shadow: -3px 3px 5px 2px #2c2c2c;
 }
 
