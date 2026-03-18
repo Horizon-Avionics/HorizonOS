@@ -2,20 +2,21 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import { invoke } from "@tauri-apps/api/core";
 import "./App.css";
+import ChartComponent from "./components/ChartComponent";
 
 function App() {
 
 
   return (
     <main className="container">
-        <div className="graphbox1"></div>
-        <div className="graphbox2"></div>
-        <div className="graphbox3"></div>
-        <div className="graphbox4"></div>
-        <div className="graphbox5"></div>
-        <div className="graphbox6"></div>
-        <div className="graphbox7"></div>
-        <div className="graphbox8"></div>
+        <div className="graphbox1"><ChartComponent boxId="box1" /></div>
+        <div className="graphbox2"><ChartComponent boxId="box2" /></div>
+        <div className="graphbox3"><ChartComponent boxId="box3" /></div>
+        <div className="graphbox4"><ChartComponent boxId="box4" /></div>
+        <div className="graphbox5"><ChartComponent boxId="box5" /></div>
+        <div className="graphbox6"><ChartComponent boxId="box6" /></div>
+        <div className="graphbox7"><ChartComponent boxId="box7" /></div>
+        <div className="graphbox8"><ChartComponent boxId="box8" /></div>
         <div className="titleBox"></div>
         <div 
           style={{

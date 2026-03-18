@@ -77,6 +77,8 @@ h1 {
   background-color: #272727;
   border-radius: 20px;
   box-shadow: -3px 3px 5px 2px #222222;
+  display: flex;
+  overflow: hidden;
 }
 .graphbox2 {
   position: absolute;
@@ -87,6 +89,8 @@ h1 {
   background-color: #272727;
   border-radius: 20px;
   box-shadow: -3px 3px 5px 2px #222222;
+  display: flex;
+  overflow: hidden;
 }
 .graphbox3 {
   position: absolute;
@@ -97,6 +101,8 @@ h1 {
   background-color: #272727;
   border-radius: 20px;
   box-shadow: -3px 3px 5px 2px #222222;
+  display: flex;
+  overflow: hidden;
 }
 .graphbox4 {
   position: absolute;
@@ -107,6 +113,8 @@ h1 {
   background-color: #272727;
   border-radius: 20px;
   box-shadow: -3px 3px 5px 2px #222222;
+  display: flex;
+  overflow: hidden;
 }
 .graphbox5 {
   position:absolute;
@@ -117,6 +125,8 @@ h1 {
   background-color: #272727;
   border-radius: 20px;
   box-shadow: -3px 3px 5px 2px #222222;
+  display: flex;
+  overflow: hidden;
 }
 .graphbox6 {
   position:absolute;
@@ -127,6 +137,8 @@ h1 {
   background-color: #272727;
   border-radius: 20px;
   box-shadow: -3px 3px 5px 2px #222222;
+  display: flex;
+  overflow: hidden;
 }
 .graphbox7 {
   position:absolute;
@@ -137,6 +149,8 @@ h1 {
   background-color: #272727;
   border-radius: 20px;
   box-shadow: -3px 3px 5px 2px #222222;
+  display: flex;
+  overflow: hidden;
 }
 .graphbox8 {
   position:absolute;
@@ -147,6 +161,8 @@ h1 {
   background-color: #272727;
   border-radius: 20px;
   box-shadow: -3px 3px 5px 2px #222222;
+  display: flex;
+  overflow: hidden;
 }
 .titleBox {
   position:absolute;
